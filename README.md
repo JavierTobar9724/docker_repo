@@ -11,7 +11,7 @@ Este repositorio contiene una aplicación Docker con app sencilla de Node.js que
 - Ejecutamos `docker run -p 3000:3000 mi-aplicacion`. Esto hace que se despliegue la app por el puerto que configuramos en el archivo Dcokerfile
 - Accedemos a `http://localhost:3000`, donde se indexará la página principal.
 
-![](imgs\2 starting 2.JPG)
+![start](imgs\2 starting 2.JPG)
 
 # 4 Share the application
 
