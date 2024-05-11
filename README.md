@@ -23,3 +23,25 @@ Este repositorio contiene una aplicación Docker con app sencilla de Node.js que
 # 5 Persists
 
 
+# 6: Use bind mounts
+![](imgs/12%20mount.JPG)
+![](imgs/13%20mount%20data.JPG)
+![](imgs/14%20mount%20data.JPG)
+![](imgs/15%20mount%20development.JPG)
+![](imgs/16%20mount%20dev%20cambios.JPG)
+![](imgs/17%20localhsot.JPG)
+
+
+# 7 Multi-container apps
+![](imgs/18%20network%20y%20docker%20sql%20image.JPG)
+![](imgs/19%20slq%20conn.JPG)
+![](imgs/20%20mysql.JPG)
+![](imgs/21%20mysql.JPG)
+![](imgs/22%20mysql.JPG)
+
+# 8 Docker composer
+![](imgs/23%20docker%20compose.JPG)
+![](imgs/24%20correr%20docker%20compose.JPG)
+![](imgs/17%20localhsot.JPGgit )
+
+
