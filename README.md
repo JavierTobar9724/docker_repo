@@ -21,6 +21,17 @@ Este repositorio contiene una aplicación Docker con app sencilla de Node.js que
 ![hola](imgs/5%20docker%20tag.JPG)
 ![text](imgs/6%20docker%20push.JPG)
 # 5 Persists
+![](imgs/7%20docker%20alpine.JPG)
+![](imgs/8%20dokcer%20rm.JPG)
+![](imgs/9%20creacion%20docker%20con%20volume.JPG)
+![](imgs/9%20nuevo%20docker.JPG)
+![](imgs/10%20docker%20persist.JPG)
+![](imgs/11%20docker%20volume.JPG)
+
+
+
+
+
 
 
 # 6: Use bind mounts
@@ -42,6 +53,6 @@ Este repositorio contiene una aplicación Docker con app sencilla de Node.js que
 # 8 Docker composer
 ![](imgs/23%20docker%20compose.JPG)
 ![](imgs/24%20correr%20docker%20compose.JPG)
-![](imgs/17%20localhsot.JPGgit )
+![](imgs/17%20localhsot.JPG)
 
 
